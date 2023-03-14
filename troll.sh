@@ -9,6 +9,7 @@ do
   sleep 0.1s
 done
 echo "Hacking Pentagon... Done."
+sleep 3s
 
 clear
 
