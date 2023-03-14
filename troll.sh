@@ -4,7 +4,7 @@ clear
 
 for t in {0..100}
 do
-  echo "Hacking Pentagon... &t%"
+  echo "Hacking Pentagon... $t%"
   ((t = t + 1))
   sleep 0.1s
 done
@@ -16,7 +16,7 @@ clear
 
 for t in {0..100}
 do
-  echo "Retrieving data from Pentagon... &t%"
+  echo "Retrieving data from Pentagon... $t%"
   ((t = t + 1))
   sleep 0.1s
 done
